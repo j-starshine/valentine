@@ -13,5 +13,5 @@ noBtn.addEventListener("click", () => {
 
 yesBtn.addEventListener("click", () => {
     oopsText.classList.add("hidden");
-
+    alert("now gimme kith 💋");
 });

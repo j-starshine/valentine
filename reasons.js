@@ -1,5 +1,5 @@
 const clickBtn = document.getElementById("clickBtn");
-const container = document.getElementById("container");
+const container = document.getElementById("reasons-container");
 const nextBtn = document.getElementById("nextBtn");
 
 const reasons = [
